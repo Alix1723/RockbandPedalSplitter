@@ -14,18 +14,18 @@ So this mini-project is here to:
 4. Allow the other pedal(s) to send a press even if you're already holding one.
 5. Play double kick charts!
 
-So far I have successfully tested this with:
+So far I have successfully tested this with:  
 
-**CONTROLLERS**
-RB Portable Kit
+**CONTROLLERS**  
+RB Portable Kit  
 
-**PEDALS**
-RB Portable Kit Stock Pedal
-Alesis ASP-1 Mk1 Sustain Pedal
-Alesis RealHat Pedal (DM10/Nitro/etc)
+**PEDALS**  
+RB Portable Kit Stock Pedal  
+Alesis ASP-1 Mk1 Sustain Pedal  
+Alesis RealHat Pedal (DM10/Nitro/etc)  
 
 **TODO**
-Polish the .ino
-Upload 3d print files
-Upload wiring diagram
-Instructions/real README things
+Polish the .ino  
+Upload 3d print files  
+Upload wiring diagram  
+Instructions/real README things  
